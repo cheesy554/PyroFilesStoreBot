@@ -103,7 +103,7 @@ async def start(bot, cmd):
 				[
 					[
 						InlineKeyboardButton("🛑 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🛑", url="https://t.me/tamilseriallss"),
-						InlineKeyboardButton("⭕ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭕", url="https://t.me/tamilserialdiscus")
+						InlineKeyboardButton("⭕ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭕", url="https://t.me/vijaytvzeetamil_serials")
 					],
 					[
 						InlineKeyboardButton(" 👥 𝐀𝐛𝐨𝐮𝐭 ", callback_data="aboutbot"),
@@ -111,7 +111,7 @@ async def start(bot, cmd):
 					], 
                                         [
 						InlineKeyboardButton(" 𝐆𝐢𝐭𝐡𝐮𝐛 ", url="https://GitHub.com/Nasurancreation"),
-						InlineKeyboardButton("📢 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲", url="https://t.me/ITSOKTV")
+						InlineKeyboardButton("📢 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲", url="https://t.me/vijaytvzeetamil_serials")
 					]
 				]
 			)
@@ -175,7 +175,7 @@ async def main(bot, message):
 				f"**Your File Stored in my Database!**\n\nHere is the Permanent Link of your file: {share_link} \n\nJust Click the link to get your file!",
 				parse_mode="Markdown",
 				reply_markup=InlineKeyboardMarkup(
-					[[InlineKeyboardButton("Open Link", url=share_link)], [InlineKeyboardButton("⭕ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭕", url="https://t.me/tamilserialdiscus"), InlineKeyboardButton("🛑 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🛑", url="https://t.me/tamilseriallss")]]
+					[[InlineKeyboardButton("Open Link", url=share_link)], [InlineKeyboardButton("⭕ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭕", url="https://t.me/vijaytvzeetamil_serials"), InlineKeyboardButton("🛑 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🛑", url="https://t.me/tamilseriallss")]]
 				),
 				disable_web_page_preview=True
 			)
@@ -309,7 +309,7 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton(" Channel ", url="https://t.me/ITSOKTV")
+						InlineKeyboardButton(" Channel ", url="https://t.me/vijaytvzeetamil_serials")
 					],
 					[
 						InlineKeyboardButton("👥 𝐀𝐛𝐨𝐮𝐭", callback_data="aboutbot"),
@@ -327,7 +327,7 @@ async def button(bot, cmd: CallbackQuery):
 				[
 					[
 						InlineKeyboardButton("🛑 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🛑", url="https://t.me/tamilseriallss"),
-						InlineKeyboardButton("⭕ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭕", url="https://t.me/tamilserialdiscus")
+						InlineKeyboardButton("⭕ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭕", url="https://t.me/vijaytvzeetamil_serials")
 					],
 					[
 						InlineKeyboardButton("🤖 𝐀𝐛𝐨𝐮𝐭 𝐁𝐨𝐭", callback_data="aboutbot"),
