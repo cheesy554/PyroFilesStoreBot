@@ -137,7 +137,7 @@ async def start(bot, cmd):
 								InlineKeyboardButton("𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=invite_link.invite_link)
 							],
 							[
-								InlineKeyboardButton("🔄 𝐑𝐞𝐟𝐫𝐞𝐬𝐡 / 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧", url=f"https://telegram.dog/{BOT_USERNAME}?start=ITSOKTV_{file_id}")
+								InlineKeyboardButton("🔄 𝐑𝐞𝐟𝐫𝐞𝐬𝐡 / 𝐓𝐫𝐲 𝐀𝐠𝐚𝐢𝐧", url=f"https://telegram.dog/{BOT_USERNAME}?start=dot_serials_{file_id}")
 							]
 						]
 					),
