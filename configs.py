@@ -24,7 +24,7 @@ class Config(object):
 
 📡 **𝐇𝐨𝐬𝐭𝐞𝐝 𝐨𝐧:** [𝐇𝐞𝐫𝐨𝐤𝐮](https://heroku.com)
 
-🧑🏻‍💻 **𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫:** [𝐂𝐡𝐚𝐧𝐧𝐞𝐥](https://t.me/Dot_serial) 
+🧑🏻‍💻 **𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫:** [𝐂𝐡𝐚𝐧𝐧𝐞𝐥](https://t.me/Dot_serials) 
 
 👥 **𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩:**[𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/Dot_serials_bot)
 
